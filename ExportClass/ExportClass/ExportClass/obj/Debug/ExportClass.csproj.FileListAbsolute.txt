@@ -1,0 +1,7 @@
+D:\Sharp Practice\ExportClass\ExportClass\ExportClass\bin\Debug\ExportClass.exe.config
+D:\Sharp Practice\ExportClass\ExportClass\ExportClass\bin\Debug\ExportClass.exe
+D:\Sharp Practice\ExportClass\ExportClass\ExportClass\bin\Debug\ExportClass.pdb
+D:\Sharp Practice\ExportClass\ExportClass\ExportClass\obj\Debug\ExportClass.csprojAssemblyReference.cache
+D:\Sharp Practice\ExportClass\ExportClass\ExportClass\obj\Debug\ExportClass.csproj.CoreCompileInputs.cache
+D:\Sharp Practice\ExportClass\ExportClass\ExportClass\obj\Debug\ExportClass.exe
+D:\Sharp Practice\ExportClass\ExportClass\ExportClass\obj\Debug\ExportClass.pdb

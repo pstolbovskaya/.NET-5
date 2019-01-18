@@ -1,0 +1,7 @@
+D:\Sharp Practice\Modules\Modules\Modules\bin\Debug\Modules.exe.config
+D:\Sharp Practice\Modules\Modules\Modules\bin\Debug\Modules.exe
+D:\Sharp Practice\Modules\Modules\Modules\bin\Debug\Modules.pdb
+D:\Sharp Practice\Modules\Modules\Modules\obj\Debug\Modules.csprojAssemblyReference.cache
+D:\Sharp Practice\Modules\Modules\Modules\obj\Debug\Modules.csproj.CoreCompileInputs.cache
+D:\Sharp Practice\Modules\Modules\Modules\obj\Debug\Modules.exe
+D:\Sharp Practice\Modules\Modules\Modules\obj\Debug\Modules.pdb

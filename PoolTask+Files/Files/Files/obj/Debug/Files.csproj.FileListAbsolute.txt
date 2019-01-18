@@ -1,0 +1,7 @@
+D:\Sharp Practice\PoolTask+Files\Files\Files\bin\Debug\Files.exe.config
+D:\Sharp Practice\PoolTask+Files\Files\Files\bin\Debug\Files.exe
+D:\Sharp Practice\PoolTask+Files\Files\Files\bin\Debug\Files.pdb
+D:\Sharp Practice\PoolTask+Files\Files\Files\obj\Debug\Files.csprojAssemblyReference.cache
+D:\Sharp Practice\PoolTask+Files\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+D:\Sharp Practice\PoolTask+Files\Files\Files\obj\Debug\Files.exe
+D:\Sharp Practice\PoolTask+Files\Files\Files\obj\Debug\Files.pdb

@@ -1,0 +1,7 @@
+D:\Sharp Practice\OSHandle\Handle\Handle\bin\Debug\Handle.exe.config
+D:\Sharp Practice\OSHandle\Handle\Handle\bin\Debug\Handle.exe
+D:\Sharp Practice\OSHandle\Handle\Handle\bin\Debug\Handle.pdb
+D:\Sharp Practice\OSHandle\Handle\Handle\obj\Debug\Handle.csprojAssemblyReference.cache
+D:\Sharp Practice\OSHandle\Handle\Handle\obj\Debug\Handle.csproj.CoreCompileInputs.cache
+D:\Sharp Practice\OSHandle\Handle\Handle\obj\Debug\Handle.exe
+D:\Sharp Practice\OSHandle\Handle\Handle\obj\Debug\Handle.pdb
